@@ -19,6 +19,7 @@ Graph Neural Network, Deep Generatie Model, Federated Learning.
 ## Education
 
 M.Eng. of Control Engineering, Tsinghua University  `2018 - persent`
+
 B.Eng. of Software Engineering, Harbin Insitute of Technology, Rank: 3rd/155  `2014 - 2018`
 
 ## Work Experience
