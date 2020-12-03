@@ -17,16 +17,26 @@ Graph Neural Network, Deep Generatie Model, Federated Learning.
 
 
 ## Education
-
 `2018 - persent`
 M.Eng. of Control Engineering, Tsinghua University
 
 `2014 - 2018`
 B.Eng. of Software Engineering, Harbin Insitute of Technology, Rank: 3rd/155
 
-
-
-
+## Work Experience
+* Graduate Research Assistant  `2018.08-present`
+V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU
+GNN-based traffic flow prediction and trajectory prediction methods study.
+* Undergraduate Research Intern  `2018.03-2018.05`
+V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU
+1. Kalman filter-based trajectory data cleaning methods study.
+2. Django-based trajectory analyzing and cleaning system development.
+* Undergraduate Intern  `2017.10-2018.01`
+Beijing NEBULA-LINK Internet Technology Co., Ltd., Beijing, with Dr. Yizhi Wang
+V2X ADAS Android App development.
+* Undergraduate Training  `2016.03-2017.09`
+Robot Innovation Lab, HIT, Weihai, with Prof. Xuefeng Piao
+"HIT Inspection System" Android App development.
 
 
 ## Publications
