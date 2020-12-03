@@ -1,7 +1,9 @@
 ---
-layout: cv
-title: CV
+layout: page
+title: About
+permalink: /about/
 ---
+
 # Qingyu Song
 Master Candidate, Tsinghua University.
 
