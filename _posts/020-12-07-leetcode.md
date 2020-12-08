@@ -1,0 +1,58 @@
+---
+layout: post
+title: LeetCode 565. Array Nesting
+date: 2020-12-07 23:59:55 +0800
+category: LeetCode
+---
+### Problem
+A zero-indexed array A of length N contains all integers from 0 to N-1. Find and return the longest length of set S, where S[i] = {A[i], A[A[i]], A[A[A[i]]], ... } subjected to the rule below.
+
+Suppose the first element in S starts with the selection of element A[i] of index = i, the next element in S should be A[A[i]], and then A[A[A[i]]]… By that analogy, we stop adding right before a duplicate element occurs in S.
+
+**Example 1:**
+```
+Input: A = [5,4,0,3,1,6,2]
+Output: 4
+Explanation: 
+A[0] = 5, A[1] = 4, A[2] = 0, A[3] = 3, A[4] = 1, A[5] = 6, A[6] = 2.
+
+One of the longest S[K]:
+S[0] = {A[0], A[5], A[6], A[2]} = {5, 6, 2, 0}
+```
+
+### Discussion
+Same as the DFS, but can be accomplished without recursion stack.
+1. Loop every element as the start.
+2. Find next element A[A[i]] until reach start.
+
+### Solution
+1. DFS (Time Limit Exceeded)
+$O(n^2)$, $O(nlogn)$
+
+2. Brute Force (Leetcode solution)
+$O(n^2)$, $O(n)$
+
+3. Mark Visited (Leetcode solution)
+$O(n)$, $O(n)$
+Based on:
+  * No duplicate elements.
+  * Checking ring.
+Mark array: visiting element only once.
+
+4. Optimize Space (Leetcode solution)
+$O(n)$, $O(n)$
+```python
+class Solution:
+    def arrayNesting(self, nums: List[int]) -> int:
+        maxl = 1
+        for i in range(len(nums)):          
+            start = i
+            tmp = 1
+            while(nums[start] != -1 and nums[start] != i):
+                t = nums[start]
+                nums[start] = -1
+                start = t
+                tmp += 1
+            if tmp > maxl: maxl = tmp
+        return maxl
+```
