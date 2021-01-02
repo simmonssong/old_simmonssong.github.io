@@ -41,7 +41,7 @@ B.Eng. of Software Engineering, Harbin Insitute of Technology, Rank: 3rd/155  `2
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-1. Song Qingyu, RuiBo Ming, Jianming Hu, Haoyi Niu, Mingyang Gao. "Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction." In the 23rd IEEE International Conference on Intelligent Transportation Systems (ITSC), 2020, in press.
+1. Song, Qingyu, RuiBo Ming, Jianming Hu, Haoyi Niu, and Mingyang Gao. "Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction." In 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC), pp. 1-6. IEEE, 2020.
 
 2. Chen, Jinhua, Qingyu Song, Can Zhao, and Zhiheng Li. "Graph Database and Relational Database Performance Comparison on a Transportation Network." In International Conference on Advances in Computing and Data Sciences, pp. 407-418. Springer, Singapore, 2020.
 
