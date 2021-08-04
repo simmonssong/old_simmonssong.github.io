@@ -15,12 +15,12 @@ Tel: +852 6341 2126 <br/>
 Email: qysong [at] link.cuhk.edu.hk <br/>
 
 
-## Research interests
+### Research interests
 
 Federated Learning, Distributed Optimization.
 
 
-## Education
+### Education
 
 Ph.D. of Computer Science and Engineering, The Chinese University of Hong Kong. &emsp; `08.2021 - present`
 
@@ -29,7 +29,7 @@ M.Eng. of Control Engineering, Tsinghua University. &emsp; `09.2018 - 06.2021`
 B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; `09.2014 - 06.2018`
 
 
-## Publications
+### Publications
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 1. Song Q, Ming R, Hu J, et al. Graph attention convolutional network: Spatiotemporal modeling for urban traffic prediction[C/OL]// 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). 2020: 1-6. DOI: 10.1109/ITSC45102.2020.9294580.
 
@@ -38,7 +38,7 @@ B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; 
 3. Song Q, Hu J, Zhang R, et al. An urban topological map generation method for traffic flow prediction based on road segment clustering with floating vehicle trajectory dataset[M/OL]. 2330-2338. https://ascelibrary.org/doi/abs/10.1061/9780784482292.203.
 
 
-## Experience
+### Experience
 * Graduate Research Assistant &emsp; `2018.08-2021.01` <br/>
   V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
   *GNN-based traffic flow prediction and trajectory prediction methods study.*
@@ -53,7 +53,7 @@ B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; 
   Robot Innovation Lab, HIT, Weihai, with Prof. Xuefeng Piao <br/>
   *"HIT Inspection System" Android App development.*
 
-## Awards
+### Awards
 * Full Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
 * Outstanding Graduate Award at Provincial Level at HITWH. &emsp; `06.2018` <br/>
 
