@@ -5,14 +5,14 @@ permalink: /about/
 ---
 
 # Qingyu Song
-Ph.D. Student 
-Department of Computer Science and Engineering 
-Chinese University of Hong Kong
-Shatin, Hong Kong SAR, China
+Ph.D. Student <br/>
+Department of Computer Science and Engineering <br/>
+Chinese University of Hong Kong <br/>
+Shatin, Hong Kong SAR, China <br/>
 
-Office: Room 117, Ho Sin-Hang Engineering Building 
-Tel: +852 6341 2126 
-Email: qysong [at] link.cuhk.edu.hk 
+Office: Room 117, Ho Sin-Hang Engineering Building <br/>
+Tel: +852 6341 2126 <br/>
+Email: qysong [at] link.cuhk.edu.hk <br/>
 
 
 ### Research interests
