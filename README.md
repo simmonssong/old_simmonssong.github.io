@@ -22,11 +22,11 @@ Federated Learning, Distributed Optimization.
 
 ## Education
 
-Ph.D. of Computer Science and Engineering, The Chinese University of Hong Kong.  `09.2018 - present`
+Ph.D. of Computer Science and Engineering, The Chinese University of Hong Kong. &ensp; `09.2018 - present`
 
-M.Eng. of Control Engineering, Tsinghua University.  `09.2018 - 06.2021`
+M.Eng. of Control Engineering, Tsinghua University. &ensp; `09.2018 - 06.2021`
 
-B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai.  `09.2014 - 06.2018`
+B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &ensp; `09.2014 - 06.2018`
 
 
 ## Publications
