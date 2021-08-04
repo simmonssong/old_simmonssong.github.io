@@ -44,8 +44,8 @@ B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; 
   *GNN-based traffic flow prediction and trajectory prediction methods study.*
 * Undergraduate Research Intern &emsp; `2018.03-2018.05` <br/>
   V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
-  1. *Kalman filter-based trajectory data cleaning methods study.*
-  2. *Django-based trajectory analyzing and cleaning system development.*
+  *Kalman filter-based trajectory data cleaning methods study.* <br/>
+  *Django-based trajectory analyzing and cleaning system development.*
 * Undergraduate Intern &emsp; `2017.10-2018.01` <br/>
   Beijing NEBULA-LINK Internet Technology Co., Ltd., Beijing, with Dr. Yizhi Wang<br/>
   *V2X ADAS Android App development.*
