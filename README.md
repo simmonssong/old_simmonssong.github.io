@@ -54,8 +54,8 @@ B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; 
   *"HIT Inspection System" Android App development.*
 
 ## Awards
-* Full Postgraduate Studentship at CUHK &emsp; `08.2021` <br/>
-* Outstanding Graduate Award at Provincial Level at HITWH &emsp; `06.2018` <br/>
+* Full Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
+* Outstanding Graduate Award at Provincial Level at HITWH. &emsp; `06.2018` <br/>
 
 <!-- ### Footer Last updated: Aug 2021 -->
 
