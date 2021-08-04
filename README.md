@@ -22,11 +22,11 @@ Federated Learning, Distributed Optimization.
 
 ## Education
 
-Ph.D. of Computer Science and Engineering, The Chinese University of Hong Kong. &ensp; `09.2018 - present`
+Ph.D. of Computer Science and Engineering, The Chinese University of Hong Kong. &emsp; `08.2021 - present`
 
-M.Eng. of Control Engineering, Tsinghua University. &ensp; `09.2018 - 06.2021`
+M.Eng. of Control Engineering, Tsinghua University. &emsp; `09.2018 - 06.2021`
 
-B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &ensp; `09.2014 - 06.2018`
+B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; `09.2014 - 06.2018`
 
 
 ## Publications
@@ -39,21 +39,23 @@ B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &ensp; 
 
 
 ## Experience
-* Graduate Research Assistant  `2018.08-2021.01` <br/>
+* Graduate Research Assistant &emsp; `2018.08-2021.01` <br/>
   V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
   *GNN-based traffic flow prediction and trajectory prediction methods study.*
-* Undergraduate Research Intern  `2018.03-2018.05` <br/>
+* Undergraduate Research Intern &emsp; `2018.03-2018.05` <br/>
   V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
   1. *Kalman filter-based trajectory data cleaning methods study.*
   2. *Django-based trajectory analyzing and cleaning system development.*
-* Undergraduate Intern  `2017.10-2018.01` <br/>
+* Undergraduate Intern &emsp; `2017.10-2018.01` <br/>
   Beijing NEBULA-LINK Internet Technology Co., Ltd., Beijing, with Dr. Yizhi Wang<br/>
   *V2X ADAS Android App development.*
-* Undergraduate Training  `2016.03-2017.09`<br/>
+* Undergraduate Training &emsp; `2016.03-2017.09`<br/>
   Robot Innovation Lab, HIT, Weihai, with Prof. Xuefeng Piao <br/>
   *"HIT Inspection System" Android App development.*
 
-
+## Awards
+* Full Postgraduate Studentship at CUHK &emsp; `08.2021` <br/>
+* Outstanding Graduate Award at Provincial Level at HITWH &emsp; `06.2018` <br/>
 
 <!-- ### Footer Last updated: Aug 2021 -->
 
