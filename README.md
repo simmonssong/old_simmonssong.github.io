@@ -26,7 +26,7 @@ Ph.D. of Computer Science and Engineering, The Chinese University of Hong Kong. 
 
 M.Eng. of Control Engineering, Tsinghua University. &emsp; `09.2018 - 06.2021`
 
-B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; `09.2014 - 06.2018`
+B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp; `09.2014 - 06.2018`
 
 
 ### Publications
@@ -54,9 +54,8 @@ B.Eng. of Software Engineering, Harbin Insitute of Technology at Weihai. &emsp; 
   *"HIT Inspection System" Android App development.*
 
 ### Awards
-* Full Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
+* Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
 * Outstanding Graduate Award at Provincial Level at HITWH. &emsp; `06.2018` <br/>
 
 <!-- ### Footer Last updated: Aug 2021 -->
-
 
