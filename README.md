@@ -33,11 +33,11 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 #### ---Before CUHK---
-3. Song Q, Ming R, Hu J, et al. Graph attention convolutional network: Spatiotemporal modeling for urban traffic prediction[C/OL]// 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). 2020: 1-6. DOI: 10.1109/ITSC45102.2020.9294580.
+[3]. Song Q, Ming R, Hu J, et al. Graph attention convolutional network: Spatiotemporal modeling for urban traffic prediction[C/OL]// 2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC). 2020: 1-6. DOI: 10.1109/ITSC45102.2020.9294580.
 
-2. Chen J, Song C, Qingyuand Zhao, Li Z. Graph database and relational database performance comparison on a transportation network[C]// Singh M, Gupta P K, Tyagi V, et al. Advances in Computing and Data Sciences. Singapore: Springer Singapore, 2020: 407-418.
+[2]. Chen J, Song C, Qingyuand Zhao, Li Z. Graph database and relational database performance comparison on a transportation network[C]// Singh M, Gupta P K, Tyagi V, et al. Advances in Computing and Data Sciences. Singapore: Springer Singapore, 2020: 407-418.
 
-1. Song Q, Hu J, Zhang R, et al. An urban topological map generation method for traffic flow prediction based on road segment clustering with floating vehicle trajectory dataset[M/OL]. 2330-2338. https://ascelibrary.org/doi/abs/10.1061/9780784482292.203.
+[1]. Song Q, Hu J, Zhang R, et al. An urban topological map generation method for traffic flow prediction based on road segment clustering with floating vehicle trajectory dataset[M/OL]. 2330-2338. https://ascelibrary.org/doi/abs/10.1061/9780784482292.203.
 
 
 ### Experience
