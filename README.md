@@ -43,7 +43,7 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
 ### Experience
 * Graduate Research Assistant &emsp; `2018.08-2021.01` <br/>
   V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
-  *GNN-based traffic flow prediction and trajectory prediction methods study.*
+  *Graph neural network-based traffic flow prediction and trajectory prediction methods study.*
 * Undergraduate Research Intern &emsp; `2018.03-2018.05` <br/>
   V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
   *Kalman filter-based trajectory data cleaning methods study.* <br/>
