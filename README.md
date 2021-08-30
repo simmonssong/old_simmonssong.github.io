@@ -22,7 +22,7 @@ Federated Learning, Distributed Optimization.
 
 ### Education
 
-Ph.D. of Computer Science and Engineering, The Chinese University of Hong Kong. &emsp; `08.2021 - present`
+Ph.D. student of Computer Science and Engineering, The Chinese University of Hong Kong. &emsp; `08.2021 - present`
 
 M.Eng. of Control Engineering, Tsinghua University. &emsp; `09.2018 - 06.2021`
 
@@ -55,7 +55,7 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
   Robot Innovation Lab, HIT, Weihai, with Prof. Xuefeng Piao <br/>
   *"HIT Inspection System" Android App development.*
 
-### Awards
+### Selected Awards
 * Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
 * Outstanding Graduate Award at Provincial Level at HITWH. &emsp; `06.2018` <br/>
 
