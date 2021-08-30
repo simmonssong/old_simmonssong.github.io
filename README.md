@@ -16,7 +16,7 @@ Email: qysong [at] link.cuhk.edu.hk <br/>
 
 ### Research interests
 
-Federated Learning, Distributed Optimization.
+Federated Learning and Optimization, Reinforement Learning.
 
 
 ### Education
