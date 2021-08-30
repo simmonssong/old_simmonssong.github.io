@@ -4,7 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# Qingyu Song
 Ph.D. Student <br/>
 Department of Computer Science and Engineering <br/>
 Chinese University of Hong Kong <br/>
