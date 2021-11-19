@@ -40,19 +40,10 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
 
 
 ### Experience
-* Graduate Research Assistant &emsp; `2018.08-2021.01` <br/>
-  V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
-  *Graph neural network-based traffic flow prediction and trajectory prediction methods study.*
-* Undergraduate Research Intern &emsp; `2018.03-2018.05` <br/>
-  V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU <br/>
-  *Kalman filter-based trajectory data cleaning methods study.* <br/>
-  *Django-based trajectory analyzing and cleaning system development.*
-* Undergraduate Intern &emsp; `2017.10-2018.01` <br/>
-  Beijing NEBULA-LINK Internet Technology Co., Ltd., Beijing, with Dr. Yizhi Wang<br/>
-  *V2X ADAS Android App development.*
-* Undergraduate Training &emsp; `2016.03-2017.09`<br/>
-  Robot Innovation Lab, HIT, Weihai, with Prof. Xuefeng Piao <br/>
-  *"HIT Inspection System" Android App development.*
+* Research Assistant, V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU. &emsp; `10.2017 - 04.2018`<br/><br/>
+* Research Assistant, Robot Innovation Lab, Weihai, HIT,  with Prof. Xuefeng Piao. &emsp; `03.2015 - 06.2017`<br/>
+* Teaching Assistant, Operating System, Weihai, HIT. &emsp; `09.2016 - 01.2017`<br/>
+
 
 ### Selected Awards
 * Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
