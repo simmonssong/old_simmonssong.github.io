@@ -40,15 +40,16 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
 
 
 ### Experience
-* Teaching Assistant, ENGG 2760A/ESTR 2018: Probability for Engineers, Hong Kong, CUHK. &emsp; `09.2021 - 12.2021`<br/>
+* Teaching Assistant, CSCI 4430/ESTR 4120: Computer Networks (Spring 2022), Hong Kong, CUHK. &emsp; `01.2022 - `<br/>
+* Teaching Assistant, ENGG 2760A/ESTR 2018: Probability for Engineers (Fall 2021), Hong Kong, CUHK. &emsp; `09.2021 - 12.2021`<br/>
 * Research Assistant, V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU. &emsp; `10.2017 - 04.2018`<br/>
 * Research Assistant, Robot Innovation Lab, Weihai, HIT,  with Prof. Xuefeng Piao. &emsp; `03.2015 - 06.2017`<br/>
-* Teaching Assistant, Operating System, Weihai, HIT. &emsp; `09.2016 - 01.2017`<br/>
+* Teaching Assistant, Operating System (Fall 2016), Weihai, HIT. &emsp; `09.2016 - 01.2017`<br/>
 
 
 ### Selected Awards
 * Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
-* Outstanding Graduate Award at Provincial Level at HITWH. &emsp; `06.2018` <br/>
+* Outstanding Graduate Award at Provincial Level at HIT. &emsp; `06.2018` <br/>
 
 <!-- ### Footer Last updated: Aug 2021 -->
 
