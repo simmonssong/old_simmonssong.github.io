@@ -51,5 +51,5 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
 * Postgraduate Studentship at CUHK. &emsp; `08.2021` <br/>
 * Outstanding Graduate Award at Provincial Level at HIT. &emsp; `06.2018` <br/>
 
-<!-- ### Footer Last updated: Jan 2022 -->
+<!-- Last updated: Jan 2022 -->
 
