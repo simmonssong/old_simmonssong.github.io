@@ -34,7 +34,7 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
 #### ---Before CUHK---
 [3]. **Song, Qingyu**, Ruibo Ming, Jianming Hu, Haoyi Niu, Mingyan Gao. "Graph Attention Convolutional Network: Spatiotemporal Modeling for Urban Traffic Prediction." In IEEE ITSC 2020.
 
-[2]. Chen, Jinhua, **Qingyu Song**, Can Zhao, Zhiheng Li. "Graph Database and Relational Database Performance Comparison on a Transportation Network." In International Conference on Advances in Computing and Data Sciences. Springer, Singapore, 2020.
+[2]. Chen, Jinhua, **Qingyu Song**, Can Zhao, Zhiheng Li. "Graph Database and Relational Database Performance Comparison on a Transportation Network." In International Conference on Advances in Computing and Data Sciences 2020.
 
 [1]. **Song, Qingyu**, Jianming Hu, Ruobing Zhang, Yi Zhang. An Urban Topological Map Generation Method for Traffic Flow Prediction Based on Road Segment Clustering with Floating Vehicle Trajectory Dataset." In CICTP 2019.
 
