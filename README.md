@@ -36,11 +36,11 @@ B.Eng. of Software Engineering, Harbin Institute of Technology at Weihai. &emsp;
 
 [2]. Chen, Jinhua, **Qingyu Song**, Can Zhao, Zhiheng Li. "Graph Database and Relational Database Performance Comparison on a Transportation Network." In International Conference on Advances in Computing and Data Sciences. Springer, Singapore, 2020.
 
-[1]. **Song, Qingyu**, Jianming Hu, Ruobing Zhang, Yi Zhang. An Urban Topological Map Generation Method for Traffic Flow Prediction Based on Road Segment Clustering with Floating Behicle Trajectory Dataset." In CICTP 2019.
+[1]. **Song, Qingyu**, Jianming Hu, Ruobing Zhang, Yi Zhang. An Urban Topological Map Generation Method for Traffic Flow Prediction Based on Road Segment Clustering with Floating Vehicle Trajectory Dataset." In CICTP 2019.
 
 
 ### Experience
-* Teaching Assistant, CSCI 4430/ESTR 4120: Computer Networks (Spring 2022), Hong Kong, CUHK. &emsp; `01.2022 - `<br/>
+* Teaching Assistant, CSCI 4430: Data Communication and Computer Networks (Spring 2022), Hong Kong, CUHK. &emsp; `01.2022 - `<br/>
 * Teaching Assistant, ENGG 2760A/ESTR 2018: Probability for Engineers (Fall 2021), Hong Kong, CUHK. &emsp; `09.2021 - 12.2021`<br/>
 * Research Assistant, V2X and Autonomous Vehicles Research Center, Beijing, Tsinghua University, with Prof. Jianming HU. &emsp; `10.2017 - 04.2018`<br/>
 * Research Assistant, Robot Innovation Lab, Weihai, HIT,  with Prof. Xuefeng Piao. &emsp; `03.2015 - 06.2017`<br/>
